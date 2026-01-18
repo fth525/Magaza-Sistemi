@@ -9,7 +9,7 @@
 > Kütüphanelerinin dahil olduğundan emin olun.
 
 > [!WARNING]
-> Program Debug-x64 konfigürasyonuyla çalıştırılmalıdır.
+> Program Debug-x64 konfigürasyonuyla çalıştırılmalıdır. Aksi takdirde program derleme sırasında hata verecektir.
 
 Programda yönetici yetkisine sahip mevcut admin kullanıcısı vardır.<br>
 Kullanıcı adı: admin<br>
